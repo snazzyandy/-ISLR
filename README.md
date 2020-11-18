@@ -5,7 +5,7 @@
 
 
 The role of this respository is to store ready to run exercises from the ISLR textbook 
-that contains comments that are friendly to new R users
+that contain comments that are friendly to new R users
 
 ### Chapter 2: Statistical Learning
 
