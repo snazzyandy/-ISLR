@@ -1,9 +1,9 @@
 # ISLR: Introduction to Statistical Learning Code backup
 
 ## <b> Code Blocks </b>
-
-The role of this respository is to store and review exercises 
-while providing comments that teach users new to R how to interpret the scripts.
+*In construction*
+The role of this respository is to store ready to run exercises from the ISLR textbook 
+that contains comments that are friendly to new R users
 
 ### Chapter 2: Statistical Learning
 
